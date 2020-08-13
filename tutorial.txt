@@ -1,0 +1,5 @@
+<?php 
+include "autoload.php";
+//viewoffice("<type of document>","<file url>","<webpage embed width>","<webpage embed height>");
+viewoffice("pptx","PASE MEETING.pptx","600","600"); 
+?>
