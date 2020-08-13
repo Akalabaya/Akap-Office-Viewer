@@ -62,7 +62,7 @@ if(!is_dir("_officecatche_")){
   
   }
 }
-  viewoffice("xlsx","file_example_XLS_10.xls","600","600");
+
   ?>
 
   
